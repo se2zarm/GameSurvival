@@ -1,1 +1,1 @@
-return (random(99.99)<argument0)
+return (random(100)<argument0)
